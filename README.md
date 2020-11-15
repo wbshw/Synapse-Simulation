@@ -1,4 +1,4 @@
 # Synapse-Simulation
 Hardware based Synapse Simulation of Neural Network
 
-From FMEG
+From FMEG of SZU
